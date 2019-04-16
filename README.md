@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [mac 下Apache Kafka 源码构建](http://www.guobingwei.tech/articles/2019/04/16/1555399483061.html)
 * [ZooKeeper源码分析(五) - 数据与存储](http://www.guobingwei.tech/articles/2019/04/01/1554076444476.html)
 * [ZooKeeper源码分析(四) - Leader选举](http://www.guobingwei.tech/articles/2019/03/29/1553815655905.html)
 * [CentOS 7下 Docker容器安装](http://www.guobingwei.tech/articles/2019/03/28/1553730762270.html)
@@ -29,7 +30,6 @@
 * [计算机网络 - 分组交换网络](http://www.guobingwei.tech/articles/2017/11/05/1509894571465.html)
 * [微服务架构（一）- 概述](http://www.guobingwei.tech/articles/2017/06/03/1496466226576.html)
 * [Java并发多线程学习笔记](http://www.guobingwei.tech/articles/2016/08/10/1470841961618.html)
-* [微信客服消息乱码-httpClient](http://www.guobingwei.tech/articles/2016/10/18/1476796437904.html)
 
 ### 热门
 
@@ -61,21 +61,21 @@
 * [zookeeper学习总结](http://www.guobingwei.tech/articles/2016/08/10/1470808399931.html)
 * [Mac安装unrar和rar解压缩工具](http://www.guobingwei.tech/articles/2017/05/25/1495718300175.html)
 * [sql优化常见策略](http://www.guobingwei.tech/articles/2016/08/26/1472204674639.html)
-* [Docker容器技术初探](http://www.guobingwei.tech/articles/2017/03/24/1490319346251.html)
 * [分布式消息队列](http://www.guobingwei.tech/articles/2016/08/10/1470807740521.html)
 * [Spring参数绑定注解](http://www.guobingwei.tech/articles/2016/09/29/1475122120529.html)
-* [微信消息加解密JCE无限制权限策略文件](http://www.guobingwei.tech/articles/2016/09/29/1475134769761.html)
-* [Git 常用命令](http://www.guobingwei.tech/articles/2017/03/24/1490320588924.html)
 * [Git 常用命令](http://www.guobingwei.tech/articles/2017/03/24/1490320598950.html)
 * [shell 入门](http://www.guobingwei.tech/articles/2017/02/22/1487749673034.html)
-* [Java 8 过滤两个list的相同项](http://www.guobingwei.tech/articles/2017/04/06/1491473439725.html)
-* [微信客服消息乱码-httpClient](http://www.guobingwei.tech/articles/2016/10/18/1476796435559.html)
-* [Groovy 元对象协议Mop（一）](http://www.guobingwei.tech/articles/2017/04/05/1491364979738.html)
-* [mac下jdk安装路径查找](http://www.guobingwei.tech/articles/2016/09/29/1475136305052.html)
-* [拉取微信用户信息乱码解决办法](http://www.guobingwei.tech/articles/2016/10/18/1476796696496.html)
-* [vert.x深入分析](http://www.guobingwei.tech/articles/2016/08/10/1470841618325.html)
+* [微信消息加解密JCE无限制权限策略文件](http://www.guobingwei.tech/articles/2016/09/29/1475134769761.html)
+* [gradle dependencies依赖分析](http://www.guobingwei.tech/articles/2017/02/23/1487847982403.html)
+* [Docker容器技术初探](http://www.guobingwei.tech/articles/2017/03/24/1490319346251.html)
+* [微信客服消息乱码-httpClient](http://www.guobingwei.tech/articles/2016/10/18/1476796437904.html)
+* [Git 常用命令](http://www.guobingwei.tech/articles/2017/03/24/1490320588924.html)
 * [Java正则表达式之Pattern类和Matcher类](http://www.guobingwei.tech/articles/2016/09/29/1475116341562.html)
-* [zsh + iterm 插件安装](http://www.guobingwei.tech/articles/2017/04/01/1491018553401.html)
+* [Groovy 元对象协议Mop（一）](http://www.guobingwei.tech/articles/2017/04/05/1491364979738.html)
+* [Java 8 过滤两个list的相同项](http://www.guobingwei.tech/articles/2017/04/06/1491473439725.html)
+* [内网网段](http://www.guobingwei.tech/articles/2016/09/29/1475118749270.html)
+* [微信客服消息乱码-httpClient](http://www.guobingwei.tech/articles/2016/10/18/1476796435559.html)
+* [mac下jdk安装路径查找](http://www.guobingwei.tech/articles/2016/09/29/1475136305052.html)
 
 ---
 
