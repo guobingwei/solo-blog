@@ -64,7 +64,9 @@
 * [sql优化常见策略](http://www.guobingwei.tech/articles/2016/08/26/1472204674639.html)
 * [分布式消息队列](http://www.guobingwei.tech/articles/2016/08/10/1470807740521.html)
 * [Spring参数绑定注解](http://www.guobingwei.tech/articles/2016/09/29/1475122120529.html)
-* [微信消息加解密JCE无限制权限策略文件](http://www.guobingwei.tech/articles/2016/09/29/1475134769761.html)
+* [Git 常用命令](http://www.guobingwei.tech/articles/2017/03/24/1490320598950.html)
+* [shell 入门](http://www.guobingwei.tech/articles/2017/02/22/1487749673034.html)
+* [Docker容器技术初探](http://www.guobingwei.tech/articles/2017/03/24/1490319346251.html)
 * [微信客服消息乱码-httpClient](http://www.guobingwei.tech/articles/2016/10/18/1476796437904.html)
 * [Git 常用命令](http://www.guobingwei.tech/articles/2017/03/24/1490320588924.html)
 * [Java正则表达式之Pattern类和Matcher类](http://www.guobingwei.tech/articles/2016/09/29/1475116341562.html)
@@ -72,10 +74,8 @@
 * [Java 8 过滤两个list的相同项](http://www.guobingwei.tech/articles/2017/04/06/1491473439725.html)
 * [微信客服消息乱码-httpClient](http://www.guobingwei.tech/articles/2016/10/18/1476796435559.html)
 * [mac下jdk安装路径查找](http://www.guobingwei.tech/articles/2016/09/29/1475136305052.html)
-* [shell 入门](http://www.guobingwei.tech/articles/2017/02/22/1487749673034.html)
-* [Git 常用命令](http://www.guobingwei.tech/articles/2017/03/24/1490320598950.html)
+* [微信消息加解密JCE无限制权限策略文件](http://www.guobingwei.tech/articles/2016/09/29/1475134769761.html)
 * [gradle dependencies依赖分析](http://www.guobingwei.tech/articles/2017/02/23/1487847982403.html)
-* [微服务架构（一）- 概述](http://www.guobingwei.tech/articles/2017/06/03/1496466226576.html)
 
 ---
 
