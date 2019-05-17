@@ -61,6 +61,8 @@
 * [Java并发多线程学习笔记](http://www.guobingwei.tech/articles/2016/08/10/1470841961618.html)
 * [计算机网络 - 电路交换网络](http://www.guobingwei.tech/articles/2017/11/06/1509898828058.html)
 * [zookeeper学习总结](http://www.guobingwei.tech/articles/2016/08/10/1470808399931.html)
+* [微信客服消息乱码-httpClient](http://www.guobingwei.tech/articles/2016/10/18/1476796437904.html)
+* [Mac安装unrar和rar解压缩工具](http://www.guobingwei.tech/articles/2017/05/25/1495718300175.html)
 * [拉取微信用户信息乱码解决办法](http://www.guobingwei.tech/articles/2016/10/18/1476796696496.html)
 * [Groovy 元对象协议Mop（一）](http://www.guobingwei.tech/articles/2017/04/05/1491364979738.html)
 * [微服务架构（一）- 概述](http://www.guobingwei.tech/articles/2017/06/03/1496466226576.html)
@@ -74,8 +76,6 @@
 * [计算机网络 - 分组交换网络](http://www.guobingwei.tech/articles/2017/11/05/1509894571465.html)
 * [Java正则表达式之Pattern类和Matcher类](http://www.guobingwei.tech/articles/2016/09/29/1475116341562.html)
 * [Spring参数绑定注解](http://www.guobingwei.tech/articles/2016/09/29/1475122120529.html)
-* [sql优化常见策略](http://www.guobingwei.tech/articles/2016/08/26/1472204674639.html)
-* [Docker容器技术初探](http://www.guobingwei.tech/articles/2017/03/24/1490319346251.html)
 
 ---
 
