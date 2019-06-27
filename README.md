@@ -5,7 +5,7 @@
 <h4 align="center">BangBang斌个人博客</h4>
 <p align="center"><a title="走码观花" target="_blank" href="https://github.com/guobingwei/solo-blog"><img src="https://img.shields.io/github/last-commit/guobingwei/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/guobingwei/solo-blog"><img src="https://img.shields.io/github/repo-size/guobingwei/solo-blog.svg?style=flat-square"></a>
-<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.0-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.2-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/guobingwei/solo-blog.svg"></a></p>
 
 ### 最新
@@ -59,23 +59,23 @@
 * [美团网面试回顾](http://www.guobingwei.tech/articles/2016/08/30/1472545022261.html)
 * [常见技术架构优缺点分析](http://www.guobingwei.tech/articles/2016/08/11/1470845353808.html)
 * [Java并发多线程学习笔记](http://www.guobingwei.tech/articles/2016/08/10/1470841961618.html)
-* [zookeeper学习总结](http://www.guobingwei.tech/articles/2016/08/10/1470808399931.html)
 * [计算机网络 - 电路交换网络](http://www.guobingwei.tech/articles/2017/11/06/1509898828058.html)
+* [zookeeper学习总结](http://www.guobingwei.tech/articles/2016/08/10/1470808399931.html)
 * [Git 常用命令](http://www.guobingwei.tech/articles/2017/03/24/1490320598950.html)
-* [微服务架构（一）- 概述](http://www.guobingwei.tech/articles/2017/06/03/1496466226576.html)
 * [Java正则表达式之Pattern类和Matcher类](http://www.guobingwei.tech/articles/2016/09/29/1475116341562.html)
 * [Java 8 过滤两个list的相同项](http://www.guobingwei.tech/articles/2017/04/06/1491473439725.html)
+* [微服务架构（一）- 概述](http://www.guobingwei.tech/articles/2017/06/03/1496466226576.html)
 * [计算机网络 - 分组交换网络](http://www.guobingwei.tech/articles/2017/11/05/1509894571465.html)
-* [内网网段](http://www.guobingwei.tech/articles/2016/09/29/1475118749270.html)
 * [网络安全 - 密码学基本知识](http://www.guobingwei.tech/articles/2017/12/19/1513614807324.html)
 * [Mac安装unrar和rar解压缩工具](http://www.guobingwei.tech/articles/2017/05/25/1495718300175.html)
 * [sql优化常见策略](http://www.guobingwei.tech/articles/2016/08/26/1472204674639.html)
 * [微信消息加解密JCE无限制权限策略文件](http://www.guobingwei.tech/articles/2016/09/29/1475134769761.html)
-* [拉取微信用户信息乱码解决办法](http://www.guobingwei.tech/articles/2016/10/18/1476796696496.html)
 * [分布式消息队列](http://www.guobingwei.tech/articles/2016/08/10/1470807740521.html)
+* [Spring参数绑定注解](http://www.guobingwei.tech/articles/2016/09/29/1475122120529.html)
 * [mac下jdk安装路径查找](http://www.guobingwei.tech/articles/2016/09/29/1475136305052.html)
 * [shell 入门](http://www.guobingwei.tech/articles/2017/02/22/1487749673034.html)
 * [gradle dependencies依赖分析](http://www.guobingwei.tech/articles/2017/02/23/1487847982403.html)
+* [Git 常用命令](http://www.guobingwei.tech/articles/2017/03/24/1490320588924.html)
 
 ---
 
