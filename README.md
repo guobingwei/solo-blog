@@ -51,8 +51,8 @@
 * [Java8 lambda表达式存在的意义及使用示例](http://www.guobingwei.tech/articles/2016/08/26/1472172111130.html)
 * [Java中的内存泄漏问题](http://www.guobingwei.tech/articles/2016/08/27/1472264266249.html)
 * [美团网面试回顾](http://www.guobingwei.tech/articles/2016/08/30/1472545022261.html)
-* [sql注入分析](http://www.guobingwei.tech/articles/2016/08/10/1470835382796.html)
 * [线上问题排查方法](http://www.guobingwei.tech/articles/2016/08/27/1472284766548.html)
+* [sql注入分析](http://www.guobingwei.tech/articles/2016/08/10/1470835382796.html)
 
 ### 热议
 
@@ -60,22 +60,22 @@
 * [Java并发多线程学习笔记](http://www.guobingwei.tech/articles/2016/08/10/1470841961618.html)
 * [zookeeper学习总结](http://www.guobingwei.tech/articles/2016/08/10/1470808399931.html)
 * [计算机网络 - 电路交换网络](http://www.guobingwei.tech/articles/2017/11/06/1509898828058.html)
-* [Spring参数绑定注解](http://www.guobingwei.tech/articles/2016/09/29/1475122120529.html)
+* [分布式消息队列](http://www.guobingwei.tech/articles/2016/08/10/1470807740521.html)
 * [微服务架构（一）- 概述](http://www.guobingwei.tech/articles/2017/06/03/1496466226576.html)
+* [Spring参数绑定注解](http://www.guobingwei.tech/articles/2016/09/29/1475122120529.html)
 * [Git 常用命令](http://www.guobingwei.tech/articles/2017/03/24/1490320588924.html)
 * [Git 常用命令](http://www.guobingwei.tech/articles/2017/03/24/1490320598950.html)
-* [Java 8 过滤两个list的相同项](http://www.guobingwei.tech/articles/2017/04/06/1491473439725.html)
-* [shell 入门](http://www.guobingwei.tech/articles/2017/02/22/1487749673034.html)
-* [mac下jdk安装路径查找](http://www.guobingwei.tech/articles/2016/09/29/1475136305052.html)
-* [分布式消息队列](http://www.guobingwei.tech/articles/2016/08/10/1470807740521.html)
-* [gradle dependencies依赖分析](http://www.guobingwei.tech/articles/2017/02/23/1487847982403.html)
 * [Mac安装unrar和rar解压缩工具](http://www.guobingwei.tech/articles/2017/05/25/1495718300175.html)
+* [Java 8 过滤两个list的相同项](http://www.guobingwei.tech/articles/2017/04/06/1491473439725.html)
+* [vert.x深入分析](http://www.guobingwei.tech/articles/2016/08/10/1470841618325.html)
 * [Docker容器技术初探](http://www.guobingwei.tech/articles/2017/03/24/1490319346251.html)
 * [内网网段](http://www.guobingwei.tech/articles/2016/09/29/1475118749270.html)
 * [网络安全 - 密码学基本知识](http://www.guobingwei.tech/articles/2017/12/19/1513614807324.html)
-* [计算机网络 - 分组交换网络](http://www.guobingwei.tech/articles/2017/11/05/1509894571465.html)
-* [vert.x深入分析](http://www.guobingwei.tech/articles/2016/08/10/1470841618325.html)
+* [mac下jdk安装路径查找](http://www.guobingwei.tech/articles/2016/09/29/1475136305052.html)
 * [拉取微信用户信息乱码解决办法](http://www.guobingwei.tech/articles/2016/10/18/1476796696496.html)
+* [微信客服消息乱码-httpClient](http://www.guobingwei.tech/articles/2016/10/18/1476796437904.html)
+* [利用redis实现分布式锁](http://www.guobingwei.tech/articles/2016/08/26/1472187870194.html)
+* [sql优化常见策略](http://www.guobingwei.tech/articles/2016/08/26/1472204674639.html)
 
 ---
 
