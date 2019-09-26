@@ -41,8 +41,8 @@
 * [京东面试回顾（通过）](http://www.guobingwei.tech/articles/2016/08/23/1471926085508.html)
 * [oauth2.0及微信中oauth2.0的运用](http://www.guobingwei.tech/articles/2016/08/10/1470840319893.html)
 * [Java并发多线程学习笔记](http://www.guobingwei.tech/articles/2016/08/10/1470841959480.html)
-* [JDK集合类学习](http://www.guobingwei.tech/articles/2016/08/10/1470842046184.html)
 * [redis为什么要设计成单线程](http://www.guobingwei.tech/articles/2016/08/12/1470967091459.html)
+* [JDK集合类学习](http://www.guobingwei.tech/articles/2016/08/10/1470842046184.html)
 * [一致性哈希算法](http://www.guobingwei.tech/articles/2016/08/11/1470904597396.html)
 * [Why we picked AKKA cluster as our microservice framework](http://www.guobingwei.tech/articles/2016/08/10/1470830522662.html)
 * [面试常考数据结构与算法](http://www.guobingwei.tech/articles/2016/08/10/1470842218721.html)
@@ -51,15 +51,15 @@
 * [Java8 lambda表达式存在的意义及使用示例](http://www.guobingwei.tech/articles/2016/08/26/1472172111130.html)
 * [Java中的内存泄漏问题](http://www.guobingwei.tech/articles/2016/08/27/1472264266249.html)
 * [美团网面试回顾](http://www.guobingwei.tech/articles/2016/08/30/1472545022261.html)
-* [sql注入分析](http://www.guobingwei.tech/articles/2016/08/10/1470835382796.html)
 * [线上问题排查方法](http://www.guobingwei.tech/articles/2016/08/27/1472284766548.html)
+* [sql注入分析](http://www.guobingwei.tech/articles/2016/08/10/1470835382796.html)
 
 ### 热议
 
 * [常见技术架构优缺点分析](http://www.guobingwei.tech/articles/2016/08/11/1470845353808.html)
 * [Java并发多线程学习笔记](http://www.guobingwei.tech/articles/2016/08/10/1470841961618.html)
-* [zookeeper学习总结](http://www.guobingwei.tech/articles/2016/08/10/1470808399931.html)
 * [计算机网络 - 电路交换网络](http://www.guobingwei.tech/articles/2017/11/06/1509898828058.html)
+* [zookeeper学习总结](http://www.guobingwei.tech/articles/2016/08/10/1470808399931.html)
 * [Java 8 过滤两个list的相同项](http://www.guobingwei.tech/articles/2017/04/06/1491473439725.html)
 * [内网网段](http://www.guobingwei.tech/articles/2016/09/29/1475118749270.html)
 * [Docker容器技术初探](http://www.guobingwei.tech/articles/2017/03/24/1490319346251.html)
@@ -75,7 +75,7 @@
 * [Spring参数绑定注解](http://www.guobingwei.tech/articles/2016/09/29/1475122120529.html)
 * [Groovy 元对象协议Mop（一）](http://www.guobingwei.tech/articles/2017/04/05/1491364979738.html)
 * [Git 常用命令](http://www.guobingwei.tech/articles/2017/03/24/1490320598950.html)
-* [微信客服消息乱码-httpClient](http://www.guobingwei.tech/articles/2016/10/18/1476796435559.html)
+* [计算机网络 - 分组交换网络](http://www.guobingwei.tech/articles/2017/11/05/1509894571465.html)
 
 ---
 
