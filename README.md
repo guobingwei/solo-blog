@@ -60,9 +60,8 @@
 * [Java并发多线程学习笔记](http://www.guobingwei.tech/articles/2016/08/10/1470841961618.html)
 * [计算机网络 - 电路交换网络](http://www.guobingwei.tech/articles/2017/11/06/1509898828058.html)
 * [zookeeper学习总结](http://www.guobingwei.tech/articles/2016/08/10/1470808399931.html)
-* [计算机网络 - 分组交换网络](http://www.guobingwei.tech/articles/2017/11/05/1509894571465.html)
-* [内网网段](http://www.guobingwei.tech/articles/2016/09/29/1475118749270.html)
 * [sql优化常见策略](http://www.guobingwei.tech/articles/2016/08/26/1472204674639.html)
+* [计算机网络 - 分组交换网络](http://www.guobingwei.tech/articles/2017/11/05/1509894571465.html)
 * [微信消息加解密JCE无限制权限策略文件](http://www.guobingwei.tech/articles/2016/09/29/1475134769761.html)
 * [shell 入门](http://www.guobingwei.tech/articles/2017/02/22/1487749673034.html)
 * [微服务架构（一）- 概述](http://www.guobingwei.tech/articles/2017/06/03/1496466226576.html)
@@ -76,6 +75,7 @@
 * [Groovy 元对象协议Mop（一）](http://www.guobingwei.tech/articles/2017/04/05/1491364979738.html)
 * [Git 常用命令](http://www.guobingwei.tech/articles/2017/03/24/1490320588924.html)
 * [mac下jdk安装路径查找](http://www.guobingwei.tech/articles/2016/09/29/1475136305052.html)
+* [Spring参数绑定注解](http://www.guobingwei.tech/articles/2016/09/29/1475122120529.html)
 
 ---
 
