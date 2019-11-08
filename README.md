@@ -52,7 +52,7 @@
 * [Java中的内存泄漏问题](http://www.guobingwei.tech/articles/2016/08/27/1472264266249.html)
 * [美团网面试回顾](http://www.guobingwei.tech/articles/2016/08/30/1472545022261.html)
 * [线上问题排查方法](http://www.guobingwei.tech/articles/2016/08/27/1472284766548.html)
-* [sql注入分析](http://www.guobingwei.tech/articles/2016/08/10/1470835382796.html)
+* [利用redis实现分布式锁](http://www.guobingwei.tech/articles/2016/08/26/1472187870194.html)
 
 ### 热议
 
@@ -70,12 +70,12 @@
 * [Git 常用命令](http://www.guobingwei.tech/articles/2017/03/24/1490320588924.html)
 * [mac下jdk安装路径查找](http://www.guobingwei.tech/articles/2016/09/29/1475136305052.html)
 * [Spring参数绑定注解](http://www.guobingwei.tech/articles/2016/09/29/1475122120529.html)
-* [分布式消息队列](http://www.guobingwei.tech/articles/2016/08/10/1470807740521.html)
+* [Docker容器技术初探](http://www.guobingwei.tech/articles/2017/03/24/1490319346251.html)
 * [sql优化常见策略](http://www.guobingwei.tech/articles/2016/08/26/1472204674639.html)
 * [微信消息加解密JCE无限制权限策略文件](http://www.guobingwei.tech/articles/2016/09/29/1475134769761.html)
-* [Docker容器技术初探](http://www.guobingwei.tech/articles/2017/03/24/1490319346251.html)
 * [gradle dependencies依赖分析](http://www.guobingwei.tech/articles/2017/02/23/1487847982403.html)
-* [利用redis实现分布式锁](http://www.guobingwei.tech/articles/2016/08/26/1472187870194.html)
+* [分布式消息队列](http://www.guobingwei.tech/articles/2016/08/10/1470807740521.html)
+* [sql注入分析](http://www.guobingwei.tech/articles/2016/08/10/1470835382796.html)
 
 ---
 
