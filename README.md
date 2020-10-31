@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [LeetCode-190-颠倒二进制位](http://www.guobingwei.tech/articles/2020/10/31/1604118290602.html)
 * [LeetCode-1365-每日一题-独一无二的出现次数](http://www.guobingwei.tech/articles/2020/10/28/1603844721220.html)
 * [LeetCode-169-多数元素](http://www.guobingwei.tech/articles/2020/10/27/1603800500838.html)
 * [LeetCode-136-只出现一次的数字](http://www.guobingwei.tech/articles/2020/10/27/1603778527339.html)
@@ -29,7 +30,6 @@
 * [LeetCode-102-二叉树的层序遍历](http://www.guobingwei.tech/articles/2020/10/20/1603173810440.html)
 * [LeetCode-贪心算法问题整理](http://www.guobingwei.tech/articles/2020/09/23/1600842063562.html)
 * [代码规范的一些点](http://www.guobingwei.tech/articles/2020/08/14/1597409729531.html)
-* [数据库中间件zebra分享](http://www.guobingwei.tech/articles/2020/08/13/1597276719861.html)
 
 
 
