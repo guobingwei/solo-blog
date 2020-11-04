@@ -10,6 +10,10 @@
 
 ### 最新
 
+* [LeetCode-342-4的幂](http://www.guobingwei.tech/articles/2020/11/04/1604448364446.html)
+* [LeetCode-1342-将数字变成 0 的操作次数](http://www.guobingwei.tech/articles/2020/11/03/1604416148026.html)
+* [LeetCode-231-2的幂次方](http://www.guobingwei.tech/articles/2020/11/03/1604415787278.html)
+* [LeetCode-941-有效的山脉数组](http://www.guobingwei.tech/articles/2020/11/03/1604415498477.html)
 * [LeetCode-371-两整数之和](http://www.guobingwei.tech/articles/2020/11/02/1604276983746.html)
 * [LeetCode-268-丢失的数字](http://www.guobingwei.tech/articles/2020/11/02/1604275853271.html)
 * [LeetCode-190-颠倒二进制位](http://www.guobingwei.tech/articles/2020/10/31/1604118290602.html)
@@ -26,10 +30,6 @@
 * [LeetCode-114-二叉树展开为链表](http://www.guobingwei.tech/articles/2020/10/25/1603563225349.html)
 * [LeetCode-108-将有序数组转换为二叉搜索树](http://www.guobingwei.tech/articles/2020/10/25/1603560067062.html)
 * [LeetCode-103-从前序与中序遍历序列构造二叉树](http://www.guobingwei.tech/articles/2020/10/24/1603554010349.html)
-* [LeetCode-103-二叉树的锯齿形层次遍历](http://www.guobingwei.tech/articles/2020/10/24/1603537290803.html)
-* [LeetCode-96-不同的二叉搜索树](http://www.guobingwei.tech/articles/2020/10/23/1603415822641.html)
-* [LeetCode-98-验证二叉树](http://www.guobingwei.tech/articles/2020/10/22/1603334544541.html)
-* [LeetCode-102-二叉树的层序遍历](http://www.guobingwei.tech/articles/2020/10/20/1603173810440.html)
 
 
 
