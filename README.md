@@ -10,6 +10,14 @@
 
 ### 最新
 
+* [DDD工程结构说明](http://www.guobingwei.tech/articles/2020/11/07/1604685041050.html)
+* [领域驱动设计工程规范（参考）](http://www.guobingwei.tech/articles/2020/11/07/1604684891200.html)
+* [领域驱动设计工程规范精简版](http://www.guobingwei.tech/articles/2020/11/07/1604684646752.html)
+* [领域驱动设计背景](http://www.guobingwei.tech/articles/2020/11/07/1604684552839.html)
+* [LeetCode-206-反转链表](http://www.guobingwei.tech/articles/2020/11/07/1604679975730.html)
+* [LeetCode-160-相交链表](http://www.guobingwei.tech/articles/2020/11/06/1604677277851.html)
+* [LeetCode-141-判断是否是环形链表](http://www.guobingwei.tech/articles/2020/11/06/1604674707464.html)
+* [LeetCode-21-合并两个有序链表](http://www.guobingwei.tech/articles/2020/11/06/1604673193789.html)
 * [LeetCode-342-4的幂](http://www.guobingwei.tech/articles/2020/11/04/1604448364446.html)
 * [LeetCode-1342-将数字变成 0 的操作次数](http://www.guobingwei.tech/articles/2020/11/03/1604416148026.html)
 * [LeetCode-231-2的幂次方](http://www.guobingwei.tech/articles/2020/11/03/1604415787278.html)
@@ -22,14 +30,6 @@
 * [LeetCode-136-只出现一次的数字](http://www.guobingwei.tech/articles/2020/10/27/1603778527339.html)
 * [LeetCode-671-二叉树中第二小的节点](http://www.guobingwei.tech/articles/2020/10/27/1603764586502.html)
 * [LeetCode-230-二叉搜索树中第K小的元素](http://www.guobingwei.tech/articles/2020/10/27/1603762061983.html)
-* [LeetCode-124-二叉树的最大路径和](http://www.guobingwei.tech/articles/2020/10/26/1603691564403.html)
-* [LeetCode-剑指offer26-树的子结构](http://www.guobingwei.tech/articles/2020/10/25/1603627682844.html)
-* [LeetCode-剑指offer27-二叉树镜像](http://www.guobingwei.tech/articles/2020/10/25/1603621505470.html)
-* [LeetCode-116-填充每个节点的下一个右侧节点指针](http://www.guobingwei.tech/articles/2020/10/25/1603565424139.html)
-* [LeetCode-543-二叉树的直径](http://www.guobingwei.tech/articles/2020/10/25/1603564581165.html)
-* [LeetCode-114-二叉树展开为链表](http://www.guobingwei.tech/articles/2020/10/25/1603563225349.html)
-* [LeetCode-108-将有序数组转换为二叉搜索树](http://www.guobingwei.tech/articles/2020/10/25/1603560067062.html)
-* [LeetCode-103-从前序与中序遍历序列构造二叉树](http://www.guobingwei.tech/articles/2020/10/24/1603554010349.html)
 
 
 
