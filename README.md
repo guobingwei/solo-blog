@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [LeetCode-237-删除链表中的节点](http://www.guobingwei.tech/articles/2020/11/08/1604766106712.html)
 * [DDD工程结构说明](http://www.guobingwei.tech/articles/2020/11/07/1604685041050.html)
 * [领域驱动设计工程规范（参考）](http://www.guobingwei.tech/articles/2020/11/07/1604684891200.html)
 * [领域驱动设计工程规范精简版](http://www.guobingwei.tech/articles/2020/11/07/1604684646752.html)
@@ -29,7 +30,6 @@
 * [LeetCode-169-多数元素](http://www.guobingwei.tech/articles/2020/10/27/1603800500838.html)
 * [LeetCode-136-只出现一次的数字](http://www.guobingwei.tech/articles/2020/10/27/1603778527339.html)
 * [LeetCode-671-二叉树中第二小的节点](http://www.guobingwei.tech/articles/2020/10/27/1603764586502.html)
-* [LeetCode-230-二叉搜索树中第K小的元素](http://www.guobingwei.tech/articles/2020/10/27/1603762061983.html)
 
 
 
