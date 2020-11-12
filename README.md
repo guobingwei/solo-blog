@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [LeetCode-141-环形链表2](http://www.guobingwei.tech/articles/2020/11/12/1605143954625.html)
 * [LeetCode-19-删除链表的倒数第N个节点](http://www.guobingwei.tech/articles/2020/11/08/1604839592350.html)
 * [LeetCode-2-两数相加](http://www.guobingwei.tech/articles/2020/11/08/1604831761334.html)
 * [LeetCode-148-排序链表](http://www.guobingwei.tech/articles/2020/11/08/1604826830114.html)
@@ -29,7 +30,6 @@
 * [LeetCode-941-有效的山脉数组](http://www.guobingwei.tech/articles/2020/11/03/1604415498477.html)
 * [LeetCode-371-两整数之和](http://www.guobingwei.tech/articles/2020/11/02/1604276983746.html)
 * [LeetCode-268-丢失的数字](http://www.guobingwei.tech/articles/2020/11/02/1604275853271.html)
-* [LeetCode-190-颠倒二进制位](http://www.guobingwei.tech/articles/2020/10/31/1604118290602.html)
 
 
 
