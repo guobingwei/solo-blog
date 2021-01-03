@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [LeetCode-394-字符串解码](http://www.guobingwei.tech/articles/2021/01/02/1609560231098.html)
 * [LeetCode-42-接雨水](http://www.guobingwei.tech/articles/2020/12/01/1606785094318.html)
 * [LeetCode-155-最小栈](http://www.guobingwei.tech/articles/2020/12/01/1606784916260.html)
 * [LeetCode-3-无重复字符的最长子串](http://www.guobingwei.tech/articles/2020/11/18/1605661780293.html)
@@ -29,7 +30,6 @@
 * [LeetCode-21-合并两个有序链表](http://www.guobingwei.tech/articles/2020/11/06/1604673193789.html)
 * [LeetCode-342-4的幂](http://www.guobingwei.tech/articles/2020/11/04/1604448364446.html)
 * [LeetCode-1342-将数字变成 0 的操作次数](http://www.guobingwei.tech/articles/2020/11/03/1604416148026.html)
-* [LeetCode-231-2的幂次方](http://www.guobingwei.tech/articles/2020/11/03/1604415787278.html)
 
 
 
