@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Java泛型类型擦除](http://www.guobingwei.tech/articles/2021/02/02/1612228348786.html)
 * [LeetCode-198-打家劫舍](http://www.guobingwei.tech/articles/2021/01/07/1609984223656.html)
 * [LeetCode-448-消失的数字](http://www.guobingwei.tech/articles/2021/01/07/1609981990344.html)
 * [LeetCode-347-前K个高频的元素](http://www.guobingwei.tech/articles/2021/01/04/1609724818425.html)
@@ -29,7 +30,6 @@
 * [领域驱动设计工程规范（参考）](http://www.guobingwei.tech/articles/2020/11/07/1604684891200.html)
 * [领域驱动设计工程规范精简版](http://www.guobingwei.tech/articles/2020/11/07/1604684646752.html)
 * [领域驱动设计背景](http://www.guobingwei.tech/articles/2020/11/07/1604684552839.html)
-* [LeetCode-206-反转链表](http://www.guobingwei.tech/articles/2020/11/07/1604679975730.html)
 
 
 
