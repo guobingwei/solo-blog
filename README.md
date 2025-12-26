@@ -1,35 +1,35 @@
-<p align="center"><img alt="走码观花" src="http://p0.meituan.net/scarlett/e6ff022b2f140ef86c6e68e78fa1f52b15472.jpg"></p><h2 align="center">
-走码观花
+<p align="center"><img alt="TechNomads" src="http://p1.meituan.net/scarlett/95336145611c85e8e4295f7e9cdbde2713802.jpg"></p><h2 align="center">
+TechNomads
 </h2>
 
-<h4 align="center">端木羽晨的个人博客</h4>
-<p align="center"><a title="走码观花" target="_blank" href="https://github.com/guobingwei/solo-blog"><img src="https://img.shields.io/github/last-commit/guobingwei/solo-blog.svg?style=flat-square&color=FF9900"></a>
+<h4 align="center">Gable的个人博客</h4>
+<p align="center"><a title="TechNomads" target="_blank" href="https://github.com/guobingwei/solo-blog"><img src="https://img.shields.io/github/last-commit/guobingwei/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/guobingwei/solo-blog"><img src="https://img.shields.io/github/repo-size/guobingwei/solo-blog.svg?style=flat-square"></a>
-<a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-4.3.1-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-4.4.0-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/guobingwei/solo-blog.svg"></a></p>
 
 ### 最新
 
-* [云原生时代，Java 的危与机](http://www.guobingwei.tech/articles/2021/11/25/1637799768721.html)
-* [Java泛型类型擦除](http://www.guobingwei.tech/articles/2021/02/02/1612228348786.html)
-* [LeetCode-198-打家劫舍](http://www.guobingwei.tech/articles/2021/01/07/1609984223656.html)
-* [LeetCode-448-消失的数字](http://www.guobingwei.tech/articles/2021/01/07/1609981990344.html)
-* [LeetCode-347-前K个高频的元素](http://www.guobingwei.tech/articles/2021/01/04/1609724818425.html)
-* [LeetCode-215-数组中的第K个最大元素](http://www.guobingwei.tech/articles/2021/01/04/1609721294936.html)
-* [LeetCode-86-分隔链表](http://www.guobingwei.tech/articles/2021/01/03/1609658202140.html)
-* [LeetCode-394-字符串解码](http://www.guobingwei.tech/articles/2021/01/02/1609560231098.html)
-* [LeetCode-42-接雨水](http://www.guobingwei.tech/articles/2020/12/01/1606785094318.html)
-* [LeetCode-155-最小栈](http://www.guobingwei.tech/articles/2020/12/01/1606784916260.html)
-* [LeetCode-3-无重复字符的最长子串](http://www.guobingwei.tech/articles/2020/11/18/1605661780293.html)
-* [LeetCode-141-环形链表2](http://www.guobingwei.tech/articles/2020/11/12/1605143954625.html)
-* [LeetCode-19-删除链表的倒数第N个节点](http://www.guobingwei.tech/articles/2020/11/08/1604839592350.html)
-* [LeetCode-2-两数相加](http://www.guobingwei.tech/articles/2020/11/08/1604831761334.html)
-* [LeetCode-148-排序链表](http://www.guobingwei.tech/articles/2020/11/08/1604826830114.html)
-* [LeetCode-283-移动零](http://www.guobingwei.tech/articles/2020/11/08/1604823602465.html)
-* [LeetCode-237-删除链表中的节点](http://www.guobingwei.tech/articles/2020/11/08/1604766106712.html)
-* [DDD工程结构说明](http://www.guobingwei.tech/articles/2020/11/07/1604685041050.html)
-* [领域驱动设计工程规范（参考）](http://www.guobingwei.tech/articles/2020/11/07/1604684891200.html)
-* [领域驱动设计工程规范精简版](http://www.guobingwei.tech/articles/2020/11/07/1604684646752.html)
+* [什么是卷积核，在CNN里如何应用？](http://guobingwei.tech/articles/2025/12/26/1766737531344.html)
+* [为什么 Attention 是 O(n²)，能不能降？](http://guobingwei.tech/articles/2025/12/26/1766737132447.html)
+* [Transformer 相比CNN和RNN有啥优势？](http://guobingwei.tech/articles/2025/12/26/1766736619228.html)
+* [为什么大部分程序员成不了架构师？-读后感](http://guobingwei.tech/articles/2025/12/25/1766655756529.html)
+* [几种常见的Agent框架对比](http://guobingwei.tech/articles/2025/12/25/1766655160886.html)
+* [常见的5种Agent框架实现原理](http://guobingwei.tech/articles/2025/12/25/1766654892095.html)
+* [RAG核心概念框架](http://guobingwei.tech/articles/2025/12/25/1766654314900.html)
+* [人工智能发展史](http://guobingwei.tech/articles/2025/12/25/1766654176596.html)
+* [什么是梯度下降](http://guobingwei.tech/articles/2025/12/25/1766654030425.html)
+* [A2A协议拆解](http://guobingwei.tech/articles/2025/12/25/1766653951236.html)
+* [扩展法则和涌现能力的关系是什么？](http://guobingwei.tech/articles/2025/12/25/1766653272381.html)
+* [X支付杀入战场：马斯克的超级应用梦](http://guobingwei.tech/articles/2025/12/25/1766647819034.html)
+* [AI Agent新时代的4大主流框架](http://guobingwei.tech/articles/2025/12/24/1766571091958.html)
+* [向量索引HNSW和IVF的区别](http://guobingwei.tech/articles/2025/12/23/1766500046848.html)
+* [为什么是多头自注意力机制](http://guobingwei.tech/articles/2025/12/23/1766473155681.html)
+* [Transformer 原理通俗讲解](http://guobingwei.tech/articles/2025/12/23/1766471978859.html)
+* [云原生时代，Java 的危与机](http://guobingwei.tech/articles/2021/11/25/1637799768721.html)
+* [Java泛型类型擦除](http://guobingwei.tech/articles/2021/02/02/1612228348786.html)
+* [LeetCode-198-打家劫舍](http://guobingwei.tech/articles/2021/01/07/1609984223656.html)
+* [LeetCode-448-消失的数字](http://guobingwei.tech/articles/2021/01/07/1609981990344.html)
 
 
 
