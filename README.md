@@ -10,6 +10,7 @@ TechNomads
 
 ### 最新
 
+* [提示词常见的优化策略](http://guobingwei.tech/articles/2025/12/28/1766928476006.html)
 * [对未来20年智能体分化和演进的若干思考-CCCF精选](http://guobingwei.tech/articles/2025/12/27/1766829505130.html)
 * [什么是卷积核，在CNN里如何应用？](http://guobingwei.tech/articles/2025/12/26/1766737531344.html)
 * [为什么 Attention 是 O(n²)，能不能降？](http://guobingwei.tech/articles/2025/12/26/1766737132447.html)
@@ -29,7 +30,6 @@ TechNomads
 * [Transformer 原理通俗讲解](http://guobingwei.tech/articles/2025/12/23/1766471978859.html)
 * [云原生时代，Java 的危与机](http://guobingwei.tech/articles/2021/11/25/1637799768721.html)
 * [Java泛型类型擦除](http://guobingwei.tech/articles/2021/02/02/1612228348786.html)
-* [LeetCode-198-打家劫舍](http://guobingwei.tech/articles/2021/01/07/1609984223656.html)
 
 
 
