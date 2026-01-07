@@ -10,6 +10,9 @@ TechNomads
 
 ### 最新
 
+* [拆解一下Manus的实现原理-通用智能体平台](http://guobingwei.tech/articles/2026/01/07/1767780584235.html)
+* [关于我](http://guobingwei.tech/aboutme)
+* [从聊天机器人到数字员工：重新理解 AI 智能体](http://guobingwei.tech/articles/2026/01/07/1767719105866.html)
 * [多智能体框架Swarms 源码分析](http://guobingwei.tech/articles/2025/12/31/1767170080959.html)
 * [提示词常见的优化策略](http://guobingwei.tech/articles/2025/12/28/1766928476006.html)
 * [对未来20年智能体分化和演进的若干思考-CCCF精选](http://guobingwei.tech/articles/2025/12/27/1766829505130.html)
@@ -27,9 +30,6 @@ TechNomads
 * [X支付杀入战场：马斯克的超级应用梦](http://guobingwei.tech/articles/2025/12/25/1766647819034.html)
 * [AI Agent新时代的4大主流框架](http://guobingwei.tech/articles/2025/12/24/1766571091958.html)
 * [向量索引HNSW和IVF的区别](http://guobingwei.tech/articles/2025/12/23/1766500046848.html)
-* [为什么是多头自注意力机制](http://guobingwei.tech/articles/2025/12/23/1766473155681.html)
-* [Transformer 原理通俗讲解](http://guobingwei.tech/articles/2025/12/23/1766471978859.html)
-* [云原生时代，Java 的危与机](http://guobingwei.tech/articles/2021/11/25/1637799768721.html)
 
 
 
