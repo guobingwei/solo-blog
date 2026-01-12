@@ -10,6 +10,7 @@ TechNomads
 
 ### 最新
 
+* [Swarms 智能体框架核心实现源码总结](http://guobingwei.tech/articles/2026/01/12/1768191340345.html)
 * [拆解一下Manus的实现原理-通用智能体平台](http://guobingwei.tech/articles/2026/01/07/1767780584235.html)
 * [关于我](http://guobingwei.tech/aboutme)
 * [从聊天机器人到数字员工：重新理解 AI 智能体](http://guobingwei.tech/articles/2026/01/07/1767719105866.html)
@@ -29,7 +30,6 @@ TechNomads
 * [扩展法则和涌现能力的关系是什么？](http://guobingwei.tech/articles/2025/12/25/1766653272381.html)
 * [X支付杀入战场：马斯克的超级应用梦](http://guobingwei.tech/articles/2025/12/25/1766647819034.html)
 * [AI Agent新时代的4大主流框架](http://guobingwei.tech/articles/2025/12/24/1766571091958.html)
-* [向量索引HNSW和IVF的区别](http://guobingwei.tech/articles/2025/12/23/1766500046848.html)
 
 
 
